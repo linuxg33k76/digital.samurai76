@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @linuxg33k76
+- 👋 Hi, I’m @linuxg33k76 on X
 - 👀 I’m interested in Python and Swift development
 - 🌱 I’m currently learning Python (soon Swift)
 - 💞️ I’m looking to collaborate on ...
